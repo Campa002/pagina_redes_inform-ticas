@@ -1,0 +1,25 @@
+.titulo{
+    color: yellow;
+    width: 600px;
+    margin-left: 50px;
+    
+}
+body{
+    text-align: justify;
+    background-color: #17517e;
+    color: white;
+    
+}
+.imagen{
+    width: 600px;
+    margin-left: 50px;
+
+}
+.otrafoto{
+    display: flex;
+    width: 600px;
+    margin-left: 50px;
+}
+main{
+    display: flex;
+}
