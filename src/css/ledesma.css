@@ -1,15 +1,17 @@
-.titulo{
+body{
+    text-align: justify;
+    background-color: black;
     color: white;
+    
+}
+
+.h1{
+    color: red;
     margin-left: 50px;
     margin-bottom: 30px;
     margin-top: 30px;
     width: 1200px;
     
-}
-body{
-    text-align: justify;
-    background-color: #17517e;
-    color: white;
 }
 .imagen{
     width: 600px;
@@ -17,6 +19,7 @@ body{
     margin-bottom: 30px;
     margin-top: 30px;
     justify-content: center;
+    border: 5px solid red;
 
 }
 .parrafos{
@@ -24,4 +27,14 @@ body{
     color: white;
     width: 1200px;
     
+}
+.h2{
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    width: 1200px;
+}
+.customlink{
+    color: red;
 }

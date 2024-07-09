@@ -1,24 +1,27 @@
 .titulo{
-    color: yellow;
+    color: red;
     width: 600px;
     margin-left: 50px;
     
 }
 body{
     text-align: justify;
-    background-color: #17517e;
+    background-color: black;
     color: white;
     
 }
 .imagen{
-    width: 600px;
-    margin-left: 50px;
+    width: 400px;
+    margin-left: 100px;
+    height: 400px;
+
 
 }
 .otrafoto{
     display: flex;
-    width: 600px;
-    margin-left: 50px;
+    width: 400px;
+    margin-left: 100px;
+    height: 400px;
 }
 main{
     display: flex;
