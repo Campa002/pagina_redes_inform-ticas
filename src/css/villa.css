@@ -1,5 +1,5 @@
 .titulo{
-    color: white;
+    color: #5ab1f4;
     margin-left: 50px;
     margin-bottom: 30px;
     margin-top: 30px;
@@ -8,7 +8,7 @@
 }
 body{
     text-align: justify;
-    background-color: #17517e;
+    background-color: #000000;
     color: white;
 }
 .imagen{
@@ -17,6 +17,7 @@ body{
     margin-bottom: 30px;
     margin-top: 30px;
     justify-content: center;
+    border: 5px solid #5ab1f4;
 
 }
 .parrafos{
@@ -24,4 +25,7 @@ body{
     color: white;
     width: 1200px;
     
+}
+a{
+    color: #5ab1f4;
 }
