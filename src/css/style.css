@@ -6,6 +6,37 @@
     margin-top: 45px;
     
 }
+
+.crearcuenta{
+    position: relative;
+    right: -560px;
+    border: 3px solid white;
+    border-radius: 13px;
+    height: 25px;
+    width: 150px;
+    margin-top: 13px;
+    background-color: #00aae4;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sesiones{
+    text-align: center; 
+    display: flex;
+    vertical-align: middle;
+}
+.iniciarsesion{
+    position: relative;
+    right: -560px;
+    border: 3px solid white;
+    border-radius: 13px;
+    height: 25px;
+    width: 150px;
+    margin-top: 13px;   
+    background-color: #00aae4;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}   
 body{
     text-align: justify;
     background-color: black;
@@ -17,8 +48,12 @@ body{
     margin-left: 100px;
     height: 400px;
 
-
 }
+
+.cosas{
+    margin-left: 13px;
+    
+    }
 .otrafoto{
     display: flex;
     width: 400px;
@@ -30,5 +65,14 @@ main{
 }
 .TyM{
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
     
+}
+a{
+    display: inline-block; 
+    
+}
+h4{
+    margin-left: 50px;
 }
