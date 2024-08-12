@@ -8,35 +8,21 @@
 }
 
 .crearcuenta{
-    position: relative;
-    right: -560px;
+    text-align: center;
     border: 3px solid white;
     border-radius: 13px;
     height: 25px;
     width: 150px;
-    margin-top: 13px;
+    margin-top: 40px;
     background-color: #00aae4;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    
 }
-.sesiones{
-    text-align: center; 
-    display: flex;
-    vertical-align: middle;
-}
-.iniciarsesion{
-    position: relative;
-    right: -560px;
-    border: 3px solid white;
-    border-radius: 13px;
-    height: 25px;
-    width: 150px;
-    margin-top: 13px;   
-    background-color: #00aae4;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    align-items: center;
-}   
+
+
+
 body{
     text-align: justify;
     background-color: black;
@@ -50,10 +36,7 @@ body{
 
 }
 
-.cosas{
-    margin-left: 13px;
-    
-    }
+
 .otrafoto{
     display: flex;
     width: 400px;
@@ -76,3 +59,4 @@ a{
 h4{
     margin-left: 50px;
 }
+
