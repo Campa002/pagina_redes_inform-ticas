@@ -1,10 +1,20 @@
-.abuela{
-margin-left: 620px;
-}
-.w-30 {
-    width: 30% !important;
-}
+
+
 header{
     text-align: center;
     margin-bottom: 40px;
 }
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.h3{
+    margin-left: 50px;
+    color: white;
+    width: 1200px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+ }
